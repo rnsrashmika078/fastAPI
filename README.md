@@ -12,3 +12,6 @@
 
 - **`uvicorn main:app --reload`**  
   Runs the FastAPI application with auto-reload enabled
+  
+- **`pip install -r requirements.txt`**  
+  Install dependencies 
